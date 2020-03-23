@@ -1,125 +1,173 @@
 {
   "results": {
-  "Stats": {
-    "BeginTime": "2020-03-23T06:02:15.5034907Z",
-    "EndTime": "2020-03-23T06:02:16.0435368Z",
-    "QueryTime": 365,
-    "TotalCount": 236,
-    "MaxScore": 8848.777
-  },
-  "Hits": [
-    {
-      "Id": "13393174",
-      "Index": "incident-20200211",
-      "Score": 8848.777,
-      "Results": {
-        "EntityType": "Incidents",
-        "ID": "13393174",
-        "Title": "test",
-        "BeginDate": null,
-        "TypeName": "Not Applicable",
-        "Status": [
-          "Closed"
+    "Stats": {
+      "BeginTime": "2020-03-23T06:02:15.5034907Z",
+      "EndTime": "2020-03-23T06:02:16.0435368Z",
+      "QueryTime": 365,
+      "TotalCount": 236,
+      "MaxScore": 8848.777
+    },
+    "Hits": [
+      {
+        "Id": "13393174",
+        "Index": "incident-20200211",
+        "Score": 8848.777,
+        "Results": {
+          "EntityType": "Incidents",
+          "ID": "13393174",
+          "Title": "test",
+          "BeginDate": null,
+          "TypeName": "Not Applicable",
+          "Status": [
+            "Closed"
+          ],
+          "MainProductLine": "Infor Concierge",
+          "MainProduct": "Incidents Widget",
+          "Description": "test",
+          "Release": [
+            "Unspecified"
+          ],
+          "Reference": null,
+          "AffectedProductLine": [
+            "Infor Concierge"
+          ],
+          "AffectedProduct": [
+            "Incidents Widget"
+          ],
+          "Region": [
+            "APJ"
+          ],
+          "Country": [
+            "Philippines"
+          ],
+          "HasFileAttachment": "0",
+          "Platform": null,
+          "LastUpdateDate": "2019-04-17 02:37:58.0",
+          "FileLocation": null,
+          "Language": null,
+          "File": null,
+          "AffectedProductLineID": [
+            "256"
+          ],
+          "ParentID": null,
+          "ERVotesEndorsements": null,
+          "Audience": "0",
+          "Location": null,
+          "URL": null,
+          "Severity": "Standard",
+          "CustSeverity": null,
+          "Deployment": [
+            "On-Premise"
+          ],
+          "Action": null,
+          "CreateDate": "2019-04-17 02:34:37.0",
+          "InternalLastUpdateDate": "2019-04-17 02:37:58.0",
+          "Owner": "Jane Doe",
+          "Customer": "Infor Global Solutions (APJ)",
+          "CustomerID": "4000783",
+          "Contact": [
+            "Jane Doe"
+          ],
+          "AverageRating": null,
+          "TenantType": null,
+          "Archived": false,
+          "Resolution": "test",
+          "ResolutionID": null,
+          "CTP_TE_PackageID": null,
+          "MainRelease": "Unspecified",
+          "ServicePack": null,
+          "RecommendedKBbyProduct": null,
+          "RecommendedKBbyRelease": null,
+          "Internal": false,
+          "RestrictedInternal": false,
+          "CountofRatedUsers": null,
+          "Likes": null,
+          "AffectedProductID": [
+            "124956"
+          ],
+          "Highlights": "<b>test</b>"
+        },
+        "Missing": [
+          
+        ]
+      }
+    ],
+    "Facets": [
+      {
+        "Field": "Taxonomy",
+        "Type": 1,
+        "DisplayCount": false,
+        "Order": 1,
+        "Buckets": [
+          {
+            "Display": "Infor Concierge",
+            "Selected": false,
+            "Level": 1,
+            "Count": 236,
+            "Buckets": [
+              {
+                "Display": "Cases Widget",
+                "Selected": false,
+                "Level": 2,
+                "Count": 10,
+                "Buckets": [
+                  
+                ],
+                "Field": "Taxonomy",
+                "Terms": [
+                  "Infor Concierge|Cases Widget"
+                ]
+              },
+              {
+                "Display": "Cloud Provisioning Widget",
+                "Selected": false,
+                "Level": 2,
+                "Count": 4,
+                "Buckets": [
+                  
+                ],
+                "Field": "Taxonomy",
+                "Terms": [
+                  "Infor Concierge|Cloud Provisioning Widget"
+                ]
+              }
+            ],
+            "Field": "AffectedProductLine",
+            "Terms": [
+              "Infor Concierge"
+            ]
+          }
         ],
-        "MainProductLine": "Infor Concierge",
-        "MainProduct": "Incidents Widget",
-        "Description": "test",
-        "Release": [
-          "Unspecified"
-        ],
-        "Reference": null,
-        "AffectedProductLine": [
-          "Infor Concierge"
-        ],
-        "AffectedProduct": [
-          "Incidents Widget"
-        ],
-        "Region": [
-          "APJ"
-        ],
-        "Country": [
-          "Philippines"
-        ],
-        "HasFileAttachment": "0",
-        "Platform": null,
-        "LastUpdateDate": "2019-04-17 02:37:58.0",
-        "FileLocation": null,
-        "Language": null,
-        "File": null,
-        "AffectedProductLineID": [
-          "256"
-        ],
-        "ParentID": null,
-        "ERVotesEndorsements": null,
-        "Audience": "0",
-        "Location": null,
-        "URL": null,
-        "Severity": "Standard",
-        "CustSeverity": null,
-        "Deployment": [
-          "On-Premise"
-        ],
-        "Action": null,
-        "CreateDate": "2019-04-17 02:34:37.0",
-        "InternalLastUpdateDate": "2019-04-17 02:37:58.0",
-        "Owner": "Jane Doe",
-        "Customer": "Infor Global Solutions (APJ)",
-        "CustomerID": "4000783",
-        "Contact": [
-          "Jane Doe"
-        ],
-        "AverageRating": null,
-        "TenantType": null,
-        "Archived": false,
-        "Resolution": "test",
-        "ResolutionID": null,
-        "CTP_TE_PackageID": null,
-        "MainRelease": "Unspecified",
-        "ServicePack": null,
-        "RecommendedKBbyProduct": null,
-        "RecommendedKBbyRelease": null,
-        "Internal": false,
-        "RestrictedInternal": false,
-        "CountofRatedUsers": null,
-        "Likes": null,
-        "AffectedProductID": [
-          "124956"
-        ],
-        "Highlights": "<b>test</b>"
-      },
-      "Missing": [
-        
-      ]
+        "Count": 236
+      }
+    ],
+    "Searched": "test",
+    "Query": "",
+    "EventInfo": {
+      "SessionId": "3064df46-7c4e-41f6-8ff3-106e09f4bc39",
+      "EventType": "Search",
+      "EventSubtype": "Auto Suggested",
+      "EventOrder": 1,
+      "EventTime": "2020-Mar-23 06:02:16",
+      "EventStatus": 1,
+      "Application": "Infor Concierge",
+      "UserId": 267676,
+      "UserName": "Jane Doe",
+      "UserType": "Staff",
+      "CompanyId": 4005106,
+      "CompanyName": "SyteLine Development",
+      "SearchFrom": "Site Search",
+      "SearchCategories": "Announcements,Documentation,Enhancement Requests,Events,Incidents,KB Articles,Training Classes",
+      "ProductLineIds": "256",
+      "ProductLineNames": "Infor Concierge",
+      "IncidentId": 0,
+      "KeywordsEntered": "test",
+      "KeywordsSearched": "test",
+      "TotalTime": 540,
+      "TotalResults": 236,
+      "ViewedId": 0,
+      "ViewedType": "",
+      "ViewedTitle": ""
     }
-  ],
-  "Facets": [],
-  "Searched": "test",
-  "Query": "",
-  "EventInfo": {
-    "SessionId": "3064df46-7c4e-41f6-8ff3-106e09f4bc39",
-    "EventType": "Search",
-    "EventSubtype": "Auto Suggested",
-    "EventOrder": 1,
-    "EventTime": "2020-Mar-23 06:02:16",
-    "EventStatus": 1,
-    "Application": "Infor Concierge",
-    "UserId": 267676,
-    "UserName": "Jane Doe",
-    "UserType": "Staff",
-    "CompanyId": 4005106,
-    "CompanyName": "SyteLine Development",
-    "SearchFrom": "Site Search",
-    "SearchCategories": "Announcements,Documentation,Enhancement Requests,Events,Incidents,KB Articles,Training Classes",
-    "ProductLineIds": "256",
-    "ProductLineNames": "Infor Concierge",
-    "IncidentId": 0,
-    "KeywordsEntered": "test",
-    "KeywordsSearched": "test",
-    "TotalTime": 540,
-    "TotalResults": 236,
-    "ViewedId": 0,
-    "ViewedType": "",
-    "ViewedTitle": ""
   }
-}
 }
