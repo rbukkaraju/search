@@ -3,8 +3,216 @@
     {
       "id": "mingle",
       "response": {
-        "application": "mingle",
-        "response": "mingle-mingle-mingle-mingle"
+        {
+    "results": {
+        "responses": [
+            {
+                "took": 2,
+                "hits": {
+                    "total": 361,
+                    "max_score": 6.216593,
+                    "hits": [
+                        {
+                            "_type": "chat_post_teammate",
+                            "application": "infor.chat",
+                            "_id": "07f7b18a-aa92-4eb6-9b3f-97f3f6defe2d_inforhcm_prd",
+                            "_score": 6.216593,
+                            "_source": {
+                                "updateDate": 1536357162079,
+                                "attachments": [],
+                                "postedByFirstName": "Andrew",
+                                "message": "test",
+                                "postedByGuid": "13049cde-3c76-46af-8388-850c8ec790fe",
+                                "teammates": [
+                                    {
+                                        "firstName": "Ravi",
+                                        "lastName": "Narayan",
+                                        "userGuid": "ab08ef6f-c3fa-44f9-990f-0dd17e199599"
+                                    }
+                                ],
+                                "postedByLastName": "Hendricks",
+                                "mentions": [],
+                                "msgGuid": "07f7b18a-aa92-4eb6-9b3f-97f3f6defe2d",
+                                "postDate": 1536357162079,
+                                "tag": "",
+                                "createDate": 1536357162079,
+                                "status": "ACTIVE"
+                            }
+                        },
+                        {
+                            "_type": "chat_post_teammate",
+                            "application": "infor.chat",
+                            "_id": "caf546d7-21db-4017-9fcd-765b46bbf052_inforhcm_prd",
+                            "_score": 6.216593,
+                            "_source": {
+                                "updateDate": 1536887657004,
+                                "attachments": [
+                                    {
+                                        "fileName": "dataset-company.txt",
+                                        "attachDate": 1536887653000
+                                    }
+                                ],
+                                "postedByFirstName": "Ravi.Narayan@infor.com",
+                                "message": "test",
+                                "postedByGuid": "ab08ef6f-c3fa-44f9-990f-0dd17e199599",
+                                "teammates": [
+                                    {
+                                        "firstName": "Ritesh.Budarapu@infor.com",
+                                        "lastName": "",
+                                        "userGuid": "8efb658a-dbc2-4e69-b958-ca74a6bf2264"
+                                    }
+                                ],
+                                "postedByLastName": "",
+                                "mentions": [],
+                                "msgGuid": "caf546d7-21db-4017-9fcd-765b46bbf052",
+                                "postDate": 1536887657004,
+                                "tag": "",
+                                "createDate": 1536887657004,
+                                "status": "ACTIVE"
+                            }
+                        }
+                    ]
+                },
+                "status": 200
+            },
+            {
+                "took": 2,
+                "timed_out": false,
+                "hits": {
+                    "total": 57,
+                    "max_score": 7.7067695,
+                    "hits": [
+                        {
+                            "_type": "chat_attachment",
+                            "application": "infor.daf",
+                            "_id": "1897_inforhcm_prd",
+                            "_score": 7.7067695,
+                            "_source": {
+                                "Chat_Reference_Type": "1",
+                                "Chat_Reference_ID": "0F5031CC-CA28-49B5-A71F-B387E52A681B",
+                                "LASTCHANGEDTS": "2019-05-24T11:03:43.315Z",
+                                "Chat_Group_Name": "Infor OS-UX Development",
+                                "pid": "Chat_Attachment-1897-2-LATEST",
+                                "VERSIONID": "2",
+                                "CREATEUSERIDNAME": "Marcio DeBarros",
+                                "RESOURCESIZE": "6384891",
+                                "Chat_Message_ID": "3a0e7ec5-889c-49b6-9052-785a6859dd3f",
+                                "Chat_Reference_Name": "SCRUM Process",
+                                "RESOURCENAME": "Infor OS-UX - Sprint Phase Regression Testing.pptx",
+                                "ITEMID": "1897",
+                                "CREATETS": "2019-05-24T11:02:19.070Z",
+                                "LASTCHANGEDUSERIDNAME": "Marcio DeBarros"
+                            }
+                        },
+                        {
+                            "_type": "value_engineering",
+                            "application": "infor.daf",
+                            "_id": "214_inforhcm_prd",
+                            "_score": 5.8164406,
+                            "_source": {
+                                "Customer_Region": "Americas",
+                                "Customer_Name": "Salem Health",
+                                "LASTCHANGEDTS": "2019-11-01T07:10:09.241Z",
+                                "pid": "Value_Engineering-214-1-LATEST",
+                                "VERSIONID": "1",
+                                "Unique_Customer_ID": "NA",
+                                "Deliverable_Types": "Healthcare IT Staffing",
+                                "Primary_Product": "Other",
+                                "Customer_Industry": "Healthcare",
+                                "Date_Delivered": "Q4_FY20",
+                                "CREATETS": "2019-11-01T07:10:09.241Z",
+                                "Opportunity_ID": "NA",
+                                "ITEMID": "214"
+                            }
+                        },
+                        {
+                            "_index": "mes$i$v2$lid_infor.daf.daf$reference_architecture$2$1556779003124",
+                            "_type": "reference_architecture",
+                            "application": "infor.daf",
+                            "_id": "1504_inforhcm_prd",
+                            "_score": 4.8276677,
+                            "_source": {
+                                "Overall_Risk_Rating": "Elevated Risk",
+                                "Customer_Region": "Europe",
+                                "Customer_Name": "EV Cargo",
+                                "LASTCHANGEDTS": "2019-06-04T12:32:53.343Z",
+                                "pid": "Reference_Architecture-1504-3-LATEST",
+                                "VERSIONID": "3",
+                                "CREATEUSERIDNAME": "Aaditya Rungta",
+                                "RESOURCESIZE": "791573",
+                                "Primary_Product": "SunSystems",
+                                "RESOURCENAME": "Ref Arch_EV Cargo_20190604_v1.1.pdf",
+                                "Edge_Products": "XM",
+                                "Date_Delivered": "Q4_FY19",
+                                "Customer_Industry": "Other",
+                                "CREATETS": "2019-03-28T12:41:03Z",
+                                "Opportunity_ID": "04139727",
+                                "ITEMID": "1504",
+                                "LASTCHANGEDUSERIDNAME": "Aaditya Rungta",
+                                "Gov_Cloud": "false"
+                            }
+                        }
+                    ]
+                },
+                "status": 200
+            }
+        ]
+    },
+    "context": {
+        "searchConfig": {
+            "pageNumber": 1,
+            "pageSize": 10
+        },
+        "searchTargets": [
+            {
+                "from": 0,
+                "size": 10,
+                "total_results": 100,
+                "logicalId": "lid://infor.chat.1",
+                "repositories": [
+                    "chat_topic",
+                    "chat_post_topic",
+                    "chat_post_teammate",
+                    "chat_group"
+                ]
+            },
+            {
+                "from": 0,
+                "size": 10,
+                "total_results": 100,
+                "logicalId": "lid://infor.daf.daf",
+                "repositories": [
+                    "mds_genericdocument",
+                    "chat_attachment",
+                    "cx_solution_suite",
+                    "reference_architecture",
+                    "reference_architecture_standard",
+                    "value_engineering",
+                    "infor_os",
+                    "test_search"
+                ]
+            },
+            {
+                "from": 0,
+                "size": 10,
+                "total_results": 50,
+                "logicalId": "lid://infor.social.1",
+                "repositories": [
+                    "mingle_user",
+                    "mingle_stream",
+                    "mingle_template",
+                    "mingle_group",
+                    "mingle_alert",
+                    "mingle_post",
+                    "mingle_task"
+                ]
+            }
+        ]
+    },
+    "status": "OK",
+    "errorCode": 0,
+    "statusCode": 200
+}
       }
     },
     {
