@@ -24,9 +24,5150 @@
     {
       "id": "concierge",
       "response": {
-        "application": "concierge",
-        "response": "concierge-concierge-concierge-concierge"
-      }
+    "Stats": {
+        "BeginTime": "2020-04-13T13:20:35.7235818Z",
+        "EndTime": "2020-04-13T13:20:36.2167429Z",
+        "QueryTime": 254,
+        "TotalCount": 216,
+        "MaxScore": 1898936.6
+    },
+    "Hits": [
+        {
+            "Id": "8150",
+            "Index": "documentation-20181121",
+            "Score": 1898936.6,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "145",
+                "Title": "Introduction",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Introduction",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8150",
+                "LastUpdateDate": "2012-11-07 09:55:00.0",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxReferenceGuide/|1|2419"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "01INTRO.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 15:19:00.0",
+                "InternalLastUpdateDate": "2013-10-29 18:20:07.96",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8214",
+            "Index": "documentation-20181121",
+            "Score": 1681721.6,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "4",
+                "Title": "Installation Procedures/C++",
+                "BeginDate": null,
+                "TypeName": "Installation",
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Installation Procedures/C++",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8214",
+                "LastUpdateDate": "2007-07-25 08:35:00.0",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/InstallationProcedures/|1|2417"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "CPP.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2007-07-25 08:35:00.0",
+                "InternalLastUpdateDate": "2013-12-17 20:02:34.85",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8153",
+            "Index": "documentation-20181121",
+            "Score": 1645347.9,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "149",
+                "Title": "Interface Data Worksheets",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Interface Data Worksheets",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8153",
+                "LastUpdateDate": "2012-11-07 10:05:00.0",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxReferenceGuide/|1|2419"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "05INTRFC.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 15:19:00.0",
+                "InternalLastUpdateDate": "2013-10-29 18:20:07.96",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8154",
+            "Index": "documentation-20181121",
+            "Score": 1636073.2,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "151",
+                "Title": "Applying Tax Updates",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Applying Tax Updates",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8154",
+                "LastUpdateDate": "2012-11-07 10:06:00.0",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxReferenceGuide/|1|2419"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "07UPDATE.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 15:19:00.0",
+                "InternalLastUpdateDate": "2013-10-29 18:20:07.96",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8211",
+            "Index": "documentation-20181121",
+            "Score": 1618752.5,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "1",
+                "Title": "Installation Procedures/ANSI C",
+                "BeginDate": null,
+                "TypeName": "Technical",
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Installation Procedures/ANSI C",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": [
+                    "Windows"
+                ],
+                "ID": "8211",
+                "LastUpdateDate": "2013-12-17 15:03:15.52",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/InstallationProcedures/|1|2417"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "ANSI_C.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2007-07-25 08:35:00.0",
+                "InternalLastUpdateDate": "2013-12-17 15:03:15.52",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8202",
+            "Index": "documentation-20181121",
+            "Score": 1605571.9,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "70",
+                "Title": "Alabama - User-Defined Localities",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Alabama - User-Defined Localities",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8202",
+                "LastUpdateDate": "2018-10-25 13:34:14.94",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxingAuthorities3-User-DefinedLocalities/|1|2423"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "ALLOC.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 14:13:00.0",
+                "InternalLastUpdateDate": "2018-10-25 13:34:14.94",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8094",
+            "Index": "documentation-20181121",
+            "Score": 1601107.5,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "27",
+                "Title": "Northern Mariana Islands",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Northern Mariana Islands",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8094",
+                "LastUpdateDate": "2012-01-27 14:12:00.0",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxingAuthorities2-StatesM-Z/|1|2421"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "MP.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 14:12:00.0",
+                "InternalLastUpdateDate": "2013-10-29 18:20:07.96",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "52255",
+            "Index": "documentation-20181121",
+            "Score": 1571262,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "13851",
+                "Title": "Chapter 3, Applying Tax Updates",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Chapter 3, Applying Tax Updates",
+                "AffectedProduct": [
+                    "E - ALLTAX",
+                    "Lawson - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "52255",
+                "LastUpdateDate": "2017-05-15 16:03:10.777",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/India/IndiaTaxReferenceGuide/|20|14635"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "03UPDATE.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2017-05-15 16:03:10.777",
+                "InternalLastUpdateDate": "2017-05-26 15:10:23.13",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1",
+                    "119287"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8144",
+            "Index": "documentation-20181121",
+            "Score": 1550257.1,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "157",
+                "Title": "About This Guide",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "About This Guide",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8144",
+                "LastUpdateDate": "2015-09-08 16:30:43.703",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxReferenceGuide/|1|2419"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "FRONT.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 15:19:00.0",
+                "InternalLastUpdateDate": "2015-09-08 16:30:43.703",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "52260",
+            "Index": "documentation-20181121",
+            "Score": 1544870,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "13860",
+                "Title": "Chapter 4, Professional Tax",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Chapter 4, Professional Tax",
+                "AffectedProduct": [
+                    "E - ALLTAX",
+                    "Lawson - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "52260",
+                "LastUpdateDate": "2017-10-27 14:19:49.233",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/India/IndiaTaxCalculationsGuide/|20|14634"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "04PT.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2017-05-15 16:03:10.777",
+                "InternalLastUpdateDate": "2017-10-27 14:19:49.233",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1",
+                    "119287"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8136",
+            "Index": "documentation-20181121",
+            "Score": 1541414.8,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "156",
+                "Title": "1. Tax Reference Guide",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Tax Reference Guide",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8136",
+                "LastUpdateDate": "2019-10-29 09:09:02.9",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxReferenceGuide/|1|2419"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "bk_TaxReferenceGuide.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 15:19:00.0",
+                "InternalLastUpdateDate": "2019-10-29 09:09:02.9",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8212",
+            "Index": "documentation-20181121",
+            "Score": 1371067.2,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "2",
+                "Title": "Installation Procedures/IBM AS/400",
+                "BeginDate": null,
+                "TypeName": "Release and Net Change",
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Installation Procedures/IBM AS/400",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8212",
+                "LastUpdateDate": "2007-07-25 08:35:00.0",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/InstallationProcedures/|1|2417"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "AS400.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2007-07-25 08:35:00.0",
+                "InternalLastUpdateDate": "2013-12-17 15:20:19.37",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "52196",
+            "Index": "documentation-20181121",
+            "Score": 1262207.1,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": null,
+                "Title": "India Tax Calculations Guide",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "India Tax Calculations Guide",
+                "AffectedProduct": [
+                    "E - ALLTAX",
+                    "Lawson - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "52196",
+                "LastUpdateDate": "2017-08-09 10:00:16.93",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/India/IndiaTaxCalculationsGuide/|20|14634"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "bk_IndiaTaxCalculationsGuide.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2017-05-15 13:32:40.64",
+                "InternalLastUpdateDate": "2017-08-09 10:00:16.93",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1",
+                    "119287"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "52197",
+            "Index": "documentation-20181121",
+            "Score": 974297.3,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": null,
+                "Title": "India Tax Reference Guide",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "India Tax Reference Guide",
+                "AffectedProduct": [
+                    "E - ALLTAX",
+                    "Lawson - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "52197",
+                "LastUpdateDate": "2017-09-13 14:49:46.67",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/India/IndiaTaxReferenceGuide/|20|14635"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "bk_IndiaTaxReferenceGuide.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2017-05-15 13:32:40.64",
+                "InternalLastUpdateDate": "2017-09-13 14:49:46.67",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1",
+                    "119287"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "52259",
+            "Index": "documentation-20181121",
+            "Score": 971822.56,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "13852",
+                "Title": "Chapter 4, Income Calculations",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Chapter 4, Income Calculations",
+                "AffectedProduct": [
+                    "E - ALLTAX",
+                    "Lawson - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "52259",
+                "LastUpdateDate": "2017-09-13 14:51:10.24",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/India/IndiaTaxReferenceGuide/|20|14635"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "04INCOME.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2017-05-15 16:03:10.777",
+                "InternalLastUpdateDate": "2017-09-13 14:51:10.24",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1",
+                    "119287"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8224",
+            "Index": "documentation-20181121",
+            "Score": 470873.84,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "14",
+                "Title": "Quebec Provincial",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Quebec Provincial",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8224",
+                "LastUpdateDate": "2019-12-02 15:08:17.59",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxingAuthorities4-Canada/|1|2420"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "CNQUE.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 14:15:00.0",
+                "InternalLastUpdateDate": "2019-12-02 15:08:17.59",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8246",
+            "Index": "documentation-20181121",
+            "Score": 461119.78,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "143",
+                "Title": "United States FUTA Credit Reductions",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "United States FUTA Credit Reductions",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8246",
+                "LastUpdateDate": "2019-11-14 15:25:58.757",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxingAuthorities1-USFedandStatesA-L/|1|2422"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "USFUTA.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 14:12:00.0",
+                "InternalLastUpdateDate": "2019-11-14 15:25:58.757",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8261",
+            "Index": "documentation-20181121",
+            "Score": 457126.8,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "21",
+                "Title": "Maryland - State and Counties ",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Maryland - State and Counties",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8261",
+                "LastUpdateDate": "2020-02-07 11:22:55.697",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxingAuthorities2-StatesM-Z/|1|2421"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "MD.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 14:12:00.0",
+                "InternalLastUpdateDate": "2020-02-07 11:22:55.697",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8221",
+            "Index": "documentation-20181121",
+            "Score": 454176.6,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "11",
+                "Title": "Installation Procedures/Unisys",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Installation Procedures/Unisys",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8221",
+                "LastUpdateDate": "2007-07-25 08:35:00.0",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/InstallationProcedures/|1|2417"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "UNISYS.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2007-07-25 08:35:00.0",
+                "InternalLastUpdateDate": "2013-10-29 18:20:07.96",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8107",
+            "Index": "documentation-20181121",
+            "Score": 453433.9,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "60",
+                "Title": "Virgin Islands ",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Virgin Islands",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8107",
+                "LastUpdateDate": "2020-01-14 10:51:45.98",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxingAuthorities2-StatesM-Z/|1|2421"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "VI.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 14:13:00.0",
+                "InternalLastUpdateDate": "2020-01-14 10:51:45.98",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8093",
+            "Index": "documentation-20181121",
+            "Score": 452780.4,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "24",
+                "Title": "Michigan - Cities",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Michigan - Cities",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8093",
+                "LastUpdateDate": "2018-12-31 15:08:20.687",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxingAuthorities2-StatesM-Z/|1|2421"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "MIC.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 14:12:00.0",
+                "InternalLastUpdateDate": "2018-12-31 15:08:20.687",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8182",
+            "Index": "documentation-20181121",
+            "Score": 451290.9,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "73",
+                "Title": "About This Guide",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "About This Guide",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8182",
+                "LastUpdateDate": "2015-09-08 16:35:44.533",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxingAuthorities3-User-DefinedLocalities/|1|2423"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "FRONT.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 14:13:00.0",
+                "InternalLastUpdateDate": "2015-09-08 16:35:44.533",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8215",
+            "Index": "documentation-20181121",
+            "Score": 450951.03,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "5",
+                "Title": "Installation Procedures/DEC VAX",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Installation Procedures/DEC VAX",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8215",
+                "LastUpdateDate": "2007-07-25 08:35:00.0",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/InstallationProcedures/|1|2417"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "DECVAX.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2007-07-25 08:35:00.0",
+                "InternalLastUpdateDate": "2013-10-29 18:20:07.96",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8134",
+            "Index": "documentation-20181121",
+            "Score": 449801.78,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "152",
+                "Title": "Tax Methods and Calculations",
+                "BeginDate": null,
+                "TypeName": null,
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Tax Methods and Calculations",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8134",
+                "LastUpdateDate": "2012-11-07 10:06:00.0",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/TaxReferenceGuide/|1|2419"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "08TXMTHD.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2012-01-27 15:19:00.0",
+                "InternalLastUpdateDate": "2013-10-29 18:20:07.96",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        },
+        {
+            "Id": "8217",
+            "Index": "documentation-20181121",
+            "Score": 447803.62,
+            "Results": {
+                "EntityType": "Documentation",
+                "Reference": "7",
+                "Title": "Installation Procedures/Generic COBOL",
+                "BeginDate": null,
+                "TypeName": "Installation",
+                "Status": null,
+                "AffectedProductLine": [
+                    "ALLTAX"
+                ],
+                "Description": "Installation Procedures/Generic COBOL",
+                "AffectedProduct": [
+                    "E - ALLTAX"
+                ],
+                "Region": null,
+                "Country": null,
+                "HasFileAttachment": null,
+                "Platform": null,
+                "ID": "8217",
+                "LastUpdateDate": "2007-07-25 08:35:00.0",
+                "MainProductLine": null,
+                "MainProduct": null,
+                "FileLocation": [
+                    "ALLTAX/InstallationProcedures/|1|2417"
+                ],
+                "Language": [
+                    "English"
+                ],
+                "File": [
+                    "GENCOB.pdf"
+                ],
+                "AffectedProductLineID": [
+                    "6"
+                ],
+                "ParentID": null,
+                "Location": null,
+                "URL": null,
+                "Release": null,
+                "Severity": null,
+                "CustSeverity": null,
+                "Deployment": [
+                    "Any"
+                ],
+                "Action": null,
+                "CreateDate": "2007-07-25 08:35:00.0",
+                "InternalLastUpdateDate": "2013-12-17 20:31:01.697",
+                "Owner": null,
+                "Customer": null,
+                "CustomerID": null,
+                "Contact": null,
+                "Audience": "0",
+                "AverageRating": null,
+                "TenantType": null,
+                "Archived": null,
+                "Resolution": null,
+                "ResolutionID": null,
+                "CTP_TE_PackageID": null,
+                "MainRelease": null,
+                "ServicePack": null,
+                "RecommendedKBbyProduct": null,
+                "RecommendedKBbyRelease": null,
+                "Internal": false,
+                "RestrictedInternal": false,
+                "CountofRatedUsers": null,
+                "Likes": null,
+                "AffectedProductID": [
+                    "1"
+                ]
+            },
+            "Missing": []
+        }
+    ],
+    "Facets": [
+        {
+            "Field": "EntityType",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "Incidents",
+                    "Selected": true,
+                    "Level": 1,
+                    "Count": 122,
+                    "Buckets": [],
+                    "Field": "EntityType",
+                    "Terms": [
+                        "Incidents"
+                    ]
+                },
+                {
+                    "Display": "Documentation",
+                    "Selected": true,
+                    "Level": 1,
+                    "Count": 73,
+                    "Buckets": [],
+                    "Field": "EntityType",
+                    "Terms": [
+                        "Documentation"
+                    ]
+                },
+                {
+                    "Display": "KB",
+                    "Selected": true,
+                    "Level": 1,
+                    "Count": 21,
+                    "Buckets": [],
+                    "Field": "EntityType",
+                    "Terms": [
+                        "KB"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "Taxonomy",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 1,
+            "Buckets": [
+                {
+                    "Display": "ALLTAX",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 95,
+                    "Buckets": [
+                        {
+                            "Display": "E - ALLTAX",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 95,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "ALLTAX|E - ALLTAX"
+                            ]
+                        },
+                        {
+                            "Display": "Lawson - ALLTAX",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 31,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "ALLTAX|Lawson - ALLTAX"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "ALLTAX"
+                    ]
+                },
+                {
+                    "Display": "Adage",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 3,
+                    "Buckets": [
+                        {
+                            "Display": "Adage",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 3,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Adage|Adage"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Adage"
+                    ]
+                },
+                {
+                    "Display": "Anael",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [
+                        {
+                            "Display": "AN - Anael finance WS",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Anael|AN - Anael finance WS"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Anael"
+                    ]
+                },
+                {
+                    "Display": "Birst",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [
+                        {
+                            "Display": "Birst Appliance Enterprise Edition",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Birst|Birst Appliance Enterprise Edition"
+                            ]
+                        },
+                        {
+                            "Display": "Birst Cloud Enterprise Edition",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Birst|Birst Cloud Enterprise Edition"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Birst"
+                    ]
+                },
+                {
+                    "Display": "CPQ",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [
+                        {
+                            "Display": "Infor Contract Lifecycle Management",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "CPQ|Infor Contract Lifecycle Management"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "CPQ"
+                    ]
+                },
+                {
+                    "Display": "CloudSuite Business or Industrial",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 6,
+                    "Buckets": [
+                        {
+                            "Display": "CSI - Country Pack - France",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "CloudSuite Business or Industrial|CSI - Country Pack - France"
+                            ]
+                        },
+                        {
+                            "Display": "CSI - Country Pack - India",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 4,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "CloudSuite Business or Industrial|CSI - Country Pack - India"
+                            ]
+                        },
+                        {
+                            "Display": "CSI - Technical",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "CloudSuite Business or Industrial|CSI - Technical"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "CloudSuite Business or Industrial"
+                    ]
+                },
+                {
+                    "Display": "E Series",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [
+                        {
+                            "Display": "E - Accounts Payable - Euro/Multi Currency",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Accounts Payable - Euro/Multi Currency"
+                            ]
+                        },
+                        {
+                            "Display": "E - Accounts Payable - Materials and Gov",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Accounts Payable - Materials and Gov"
+                            ]
+                        },
+                        {
+                            "Display": "E - Accounts Receivable",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Accounts Receivable"
+                            ]
+                        },
+                        {
+                            "Display": "E - Budgetary Control - Government",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Budgetary Control - Government"
+                            ]
+                        },
+                        {
+                            "Display": "E - DCI and ISP",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - DCI and ISP"
+                            ]
+                        },
+                        {
+                            "Display": "E - ExpertLink",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - ExpertLink"
+                            ]
+                        },
+                        {
+                            "Display": "E - Financial Controller",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Financial Controller"
+                            ]
+                        },
+                        {
+                            "Display": "E - Fixed Assets",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Fixed Assets"
+                            ]
+                        },
+                        {
+                            "Display": "E - Fixed Assets - Euro Currency",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Fixed Assets - Euro Currency"
+                            ]
+                        },
+                        {
+                            "Display": "E - Foreign Exchange",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Foreign Exchange"
+                            ]
+                        },
+                        {
+                            "Display": "E - Foreign Exchange - Euro Currency",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Foreign Exchange - Euro Currency"
+                            ]
+                        },
+                        {
+                            "Display": "E - General Ledger",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - General Ledger"
+                            ]
+                        },
+                        {
+                            "Display": "E - General Ledger - Euro Currency",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - General Ledger - Euro Currency"
+                            ]
+                        },
+                        {
+                            "Display": "E - Healthcare Decision Support",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Healthcare Decision Support"
+                            ]
+                        },
+                        {
+                            "Display": "E - Human Resources",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Human Resources"
+                            ]
+                        },
+                        {
+                            "Display": "E - Information Expert",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Information Expert"
+                            ]
+                        },
+                        {
+                            "Display": "E - International Payroll (IP:E)",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - International Payroll (IP:E)"
+                            ]
+                        },
+                        {
+                            "Display": "E - Inventory",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Inventory"
+                            ]
+                        },
+                        {
+                            "Display": "E - Payroll",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Payroll"
+                            ]
+                        },
+                        {
+                            "Display": "E - Project Tracking",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Project Tracking"
+                            ]
+                        },
+                        {
+                            "Display": "E - Project Tracking - CoHost",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Project Tracking - CoHost"
+                            ]
+                        },
+                        {
+                            "Display": "E - Purchasing - Euro/Multi Currency",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Purchasing - Euro/Multi Currency"
+                            ]
+                        },
+                        {
+                            "Display": "E - Purchasing - Government",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Purchasing - Government"
+                            ]
+                        },
+                        {
+                            "Display": "E - Purchasing - Materials",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "E Series|E - Purchasing - Materials"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "E Series"
+                    ]
+                },
+                {
+                    "Display": "Expense Management",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [
+                        {
+                            "Display": "EM - Expense Management Suite",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Expense Management|EM - Expense Management Suite"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Expense Management"
+                    ]
+                },
+                {
+                    "Display": "HR Service Delivery - Enwisen",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [
+                        {
+                            "Display": "HRSD - Knowledgebase",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "HR Service Delivery - Enwisen|HRSD - Knowledgebase"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "HR Service Delivery - Enwisen"
+                    ]
+                },
+                {
+                    "Display": "Hospitality - RMS",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [
+                        {
+                            "Display": "Ez RMS",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Hospitality - RMS|Ez RMS"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Hospitality - RMS"
+                    ]
+                },
+                {
+                    "Display": "ION (V11 Only)",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 3,
+                    "Buckets": [
+                        {
+                            "Display": "ION Connect",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "ION (V11 Only)|ION Connect"
+                            ]
+                        },
+                        {
+                            "Display": "ION Process - Grid",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "ION (V11 Only)|ION Process - Grid"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "ION (V11 Only)"
+                    ]
+                },
+                {
+                    "Display": "Infor Concierge",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [
+                        {
+                            "Display": "Welcome to Infor Concierge Widget",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Concierge|Welcome to Infor Concierge Widget"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Infor Concierge"
+                    ]
+                },
+                {
+                    "Display": "Infor Federation Services (V11 Only)",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [
+                        {
+                            "Display": "Infor Federation Services",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Federation Services (V11 Only)|Infor Federation Services"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Infor Federation Services (V11 Only)"
+                    ]
+                },
+                {
+                    "Display": "Infor Nexus - Platform",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [
+                        {
+                            "Display": "Common Components",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Nexus - Platform|Common Components"
+                            ]
+                        },
+                        {
+                            "Display": "Platform",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Nexus - Platform|Platform"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Infor Nexus - Platform"
+                    ]
+                },
+                {
+                    "Display": "Infor Operating Service",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [
+                        {
+                            "Display": "Infor ION (OS)",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Operating Service|Infor ION (OS)"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Infor Operating Service"
+                    ]
+                },
+                {
+                    "Display": "Infor Support Portal - Customer Care",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 6,
+                    "Buckets": [
+                        {
+                            "Display": "Worldwide Customer Care",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 6,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Support Portal - Customer Care|Worldwide Customer Care"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Infor Support Portal - Customer Care"
+                    ]
+                },
+                {
+                    "Display": "Infor Support Portal - Staff Support",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 38,
+                    "Buckets": [
+                        {
+                            "Display": "Administration",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 5,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Support Portal - Staff Support|Administration"
+                            ]
+                        },
+                        {
+                            "Display": "Data Administration",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 9,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Support Portal - Staff Support|Data Administration"
+                            ]
+                        },
+                        {
+                            "Display": "Documentation",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 18,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Support Portal - Staff Support|Documentation"
+                            ]
+                        },
+                        {
+                            "Display": "Incidents",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 3,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Support Portal - Staff Support|Incidents"
+                            ]
+                        },
+                        {
+                            "Display": "Knowledge Base",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Support Portal - Staff Support|Knowledge Base"
+                            ]
+                        },
+                        {
+                            "Display": "PagerDuty",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Support Portal - Staff Support|PagerDuty"
+                            ]
+                        },
+                        {
+                            "Display": "Test Product 1",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Infor Support Portal - Staff Support|Test Product 1"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Infor Support Portal - Staff Support"
+                    ]
+                },
+                {
+                    "Display": "LN ERP",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [
+                        {
+                            "Display": "LN UI -Windows / Worktop / Webtop",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "LN ERP|LN UI -Windows / Worktop / Webtop"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "LN ERP"
+                    ]
+                },
+                {
+                    "Display": "Lawson",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [
+                        {
+                            "Display": "Lawson Accounts Receivable",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 2,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Lawson|Lawson Accounts Receivable"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Lawson"
+                    ]
+                },
+                {
+                    "Display": "M Series",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [
+                        {
+                            "Display": "M - Accounts Payable",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Accounts Payable"
+                            ]
+                        },
+                        {
+                            "Display": "M - Accounts Payable - CoHost",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Accounts Payable - CoHost"
+                            ]
+                        },
+                        {
+                            "Display": "M - Accounts Payable - Euro Currency",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Accounts Payable - Euro Currency"
+                            ]
+                        },
+                        {
+                            "Display": "M - Accounts Receivable",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Accounts Receivable"
+                            ]
+                        },
+                        {
+                            "Display": "M - Accounts Receivable - CoHost",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Accounts Receivable - CoHost"
+                            ]
+                        },
+                        {
+                            "Display": "M - Accounts Receivable - Euro Currency",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Accounts Receivable - Euro Currency"
+                            ]
+                        },
+                        {
+                            "Display": "M - Asset Management",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Asset Management"
+                            ]
+                        },
+                        {
+                            "Display": "M - Batch Transaction Processor",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Batch Transaction Processor"
+                            ]
+                        },
+                        {
+                            "Display": "M - Capital Projects",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Capital Projects"
+                            ]
+                        },
+                        {
+                            "Display": "M - Capital Projects - CoHost",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Capital Projects - CoHost"
+                            ]
+                        },
+                        {
+                            "Display": "M - Currency Management",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Currency Management"
+                            ]
+                        },
+                        {
+                            "Display": "M - Currency Management - CoHost",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Currency Management - CoHost"
+                            ]
+                        },
+                        {
+                            "Display": "M - Currency Management - Euro Currency",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Currency Management - Euro Currency"
+                            ]
+                        },
+                        {
+                            "Display": "M - Debtors Billing",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Debtors Billing"
+                            ]
+                        },
+                        {
+                            "Display": "M - FYI",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - FYI"
+                            ]
+                        },
+                        {
+                            "Display": "M - Fixed Asset",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Fixed Asset"
+                            ]
+                        },
+                        {
+                            "Display": "M - Fixed Assets - CoHost",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Fixed Assets - CoHost"
+                            ]
+                        },
+                        {
+                            "Display": "M - Front Line",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Front Line"
+                            ]
+                        },
+                        {
+                            "Display": "M - General Ledger - CoHost",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - General Ledger - CoHost"
+                            ]
+                        },
+                        {
+                            "Display": "M - General Ledger 2.0",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - General Ledger 2.0"
+                            ]
+                        },
+                        {
+                            "Display": "M - General Ledger 3.0",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - General Ledger 3.0"
+                            ]
+                        },
+                        {
+                            "Display": "M - General Ledger 3.0 - Euro Currency",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - General Ledger 3.0 - Euro Currency"
+                            ]
+                        },
+                        {
+                            "Display": "M - Government Budgeting",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Government Budgeting"
+                            ]
+                        },
+                        {
+                            "Display": "M - Human Resources",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Human Resources"
+                            ]
+                        },
+                        {
+                            "Display": "M - Human Resources - CoHost",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Human Resources - CoHost"
+                            ]
+                        },
+                        {
+                            "Display": "M - Human Resources International",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Human Resources International"
+                            ]
+                        },
+                        {
+                            "Display": "M - Inventory Control",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Inventory Control"
+                            ]
+                        },
+                        {
+                            "Display": "M - Inventory Control - CoHost",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Inventory Control - CoHost"
+                            ]
+                        },
+                        {
+                            "Display": "M - M EDIT",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - M EDIT"
+                            ]
+                        },
+                        {
+                            "Display": "M - Management Report Writer",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Management Report Writer"
+                            ]
+                        },
+                        {
+                            "Display": "M - Millennium",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Millennium"
+                            ]
+                        },
+                        {
+                            "Display": "M - PC Link",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - PC Link"
+                            ]
+                        },
+                        {
+                            "Display": "M - PC Link 32",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - PC Link 32"
+                            ]
+                        },
+                        {
+                            "Display": "M - PC Link Reporter",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - PC Link Reporter"
+                            ]
+                        },
+                        {
+                            "Display": "M - Personnel Payroll (PP:M)",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Personnel Payroll (PP:M)"
+                            ]
+                        },
+                        {
+                            "Display": "M - Purchase Order",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Purchase Order"
+                            ]
+                        },
+                        {
+                            "Display": "M - Purchase Order - CoHost",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Purchase Order - CoHost"
+                            ]
+                        },
+                        {
+                            "Display": "M - Purchase Order - Euro Currency",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Purchase Order - Euro Currency"
+                            ]
+                        },
+                        {
+                            "Display": "M - System Development Tool",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - System Development Tool"
+                            ]
+                        },
+                        {
+                            "Display": "M - Viewprint",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "M Series|M - Viewprint"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "M Series"
+                    ]
+                },
+                {
+                    "Display": "Mongoose Framework",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 23,
+                    "Buckets": [
+                        {
+                            "Display": "Mongoose",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 14,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Mongoose Framework|Mongoose"
+                            ]
+                        },
+                        {
+                            "Display": "Mongoose Development",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 9,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Mongoose Framework|Mongoose Development"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Mongoose Framework"
+                    ]
+                },
+                {
+                    "Display": "Regression Test",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 6,
+                    "Buckets": [
+                        {
+                            "Display": "Customer Care",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 6,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "Regression Test|Customer Care"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "Regression Test"
+                    ]
+                },
+                {
+                    "Display": "SmartStream",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [
+                        {
+                            "Display": "SS - Receivables",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "SmartStream|SS - Receivables"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "SmartStream"
+                    ]
+                },
+                {
+                    "Display": "SunSystems",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [
+                        {
+                            "Display": "SN4 - Core Module",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "SunSystems|SN4 - Core Module"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "SunSystems"
+                    ]
+                },
+                {
+                    "Display": "SyteLine",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 15,
+                    "Buckets": [
+                        {
+                            "Display": "SLE - Configuration",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 4,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "SyteLine|SLE - Configuration"
+                            ]
+                        },
+                        {
+                            "Display": "SLE - Country Pack - India",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 10,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "SyteLine|SLE - Country Pack - India"
+                            ]
+                        },
+                        {
+                            "Display": "SLE - Field Service Plus",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "SyteLine|SLE - Field Service Plus"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "SyteLine"
+                    ]
+                },
+                {
+                    "Display": "dEPM - Infor BI",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [
+                        {
+                            "Display": "BI - ImportMaster",
+                            "Selected": false,
+                            "Level": 2,
+                            "Count": 1,
+                            "Buckets": [],
+                            "Field": "Taxonomy",
+                            "Terms": [
+                                "dEPM - Infor BI|BI - ImportMaster"
+                            ]
+                        }
+                    ],
+                    "Field": "AffectedProductLine",
+                    "Terms": [
+                        "dEPM - Infor BI"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "Release",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 1,
+            "Buckets": [
+                {
+                    "Display": "1.0",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "1.0"
+                    ]
+                },
+                {
+                    "Display": "1.0.0",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "1.0.0"
+                    ]
+                },
+                {
+                    "Display": "10.02",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "10.02"
+                    ]
+                },
+                {
+                    "Display": "10.05",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "10.05"
+                    ]
+                },
+                {
+                    "Display": "10.2.0",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "10.2.0"
+                    ]
+                },
+                {
+                    "Display": "10.4",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "10.4"
+                    ]
+                },
+                {
+                    "Display": "11.0.0",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "11.0.0"
+                    ]
+                },
+                {
+                    "Display": "11.1.1",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "11.1.1"
+                    ]
+                },
+                {
+                    "Display": "11.1.2",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "11.1.2"
+                    ]
+                },
+                {
+                    "Display": "12.0.16",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "12.0.16"
+                    ]
+                },
+                {
+                    "Display": "12.0.2",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "12.0.2"
+                    ]
+                },
+                {
+                    "Display": "12.0.5",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "12.0.5"
+                    ]
+                },
+                {
+                    "Display": "12.1",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "12.1"
+                    ]
+                },
+                {
+                    "Display": "2.0",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "2.0"
+                    ]
+                },
+                {
+                    "Display": "2.0.0",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "2.0.0"
+                    ]
+                },
+                {
+                    "Display": "4.4.2",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "4.4.2"
+                    ]
+                },
+                {
+                    "Display": "4I",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "4I"
+                    ]
+                },
+                {
+                    "Display": "5.33",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "5.33"
+                    ]
+                },
+                {
+                    "Display": "5.9.4",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "5.9.4"
+                    ]
+                },
+                {
+                    "Display": "6.0.0",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "6.0.0"
+                    ]
+                },
+                {
+                    "Display": "7.0.00",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "7.0.00"
+                    ]
+                },
+                {
+                    "Display": "8.03.11",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 13,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "8.03.11"
+                    ]
+                },
+                {
+                    "Display": "9.00.00",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 11,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "9.00.00"
+                    ]
+                },
+                {
+                    "Display": "9.00.01",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "9.00.01"
+                    ]
+                },
+                {
+                    "Display": "9.00.10",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "9.00.10"
+                    ]
+                },
+                {
+                    "Display": "9.00.30",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 6,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "9.00.30"
+                    ]
+                },
+                {
+                    "Display": "9.02.00",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "9.02.00"
+                    ]
+                },
+                {
+                    "Display": "9.03",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 6,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "9.03"
+                    ]
+                },
+                {
+                    "Display": "9.03.10",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "9.03.10"
+                    ]
+                },
+                {
+                    "Display": "98.01.02",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "98.01.02"
+                    ]
+                },
+                {
+                    "Display": "Current",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 3,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "Current"
+                    ]
+                },
+                {
+                    "Display": "N/A",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 44,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "N/A"
+                    ]
+                },
+                {
+                    "Display": "Unspecified",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 14,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "Unspecified"
+                    ]
+                },
+                {
+                    "Display": "V4R5M0",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "V4R5M0"
+                    ]
+                },
+                {
+                    "Display": "n/a",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 15,
+                    "Buckets": [],
+                    "Field": "Release",
+                    "Terms": [
+                        "n/a"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "Deployment",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "On-Premise",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 91,
+                    "Buckets": [],
+                    "Field": "Deployment",
+                    "Terms": [
+                        "On-Premise"
+                    ]
+                },
+                {
+                    "Display": "Any",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 73,
+                    "Buckets": [],
+                    "Field": "Deployment",
+                    "Terms": [
+                        "Any"
+                    ]
+                },
+                {
+                    "Display": "Appliance",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Deployment",
+                    "Terms": [
+                        "Appliance"
+                    ]
+                },
+                {
+                    "Display": "Cloud",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Deployment",
+                    "Terms": [
+                        "Cloud"
+                    ]
+                },
+                {
+                    "Display": "Do not know",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Deployment",
+                    "Terms": [
+                        "Do not know"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "Function",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "AUTRES AUTRES",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Function",
+                    "Terms": [
+                        "AUTRES AUTRES"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "AFOCode",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "Documentation",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "AFOCode",
+                    "Terms": [
+                        "Documentation"
+                    ]
+                },
+                {
+                    "Display": "Test AFO Code",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "AFOCode",
+                    "Terms": [
+                        "Test AFO Code"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "Module",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "None",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 21,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "None"
+                    ]
+                },
+                {
+                    "Display": "Browse",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 13,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Browse"
+                    ]
+                },
+                {
+                    "Display": "Other",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 6,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Other"
+                    ]
+                },
+                {
+                    "Display": "Search",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 5,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Search"
+                    ]
+                },
+                {
+                    "Display": "Products and Releases",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 4,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Products and Releases"
+                    ]
+                },
+                {
+                    "Display": "General Customer Care Request",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 3,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "General Customer Care Request"
+                    ]
+                },
+                {
+                    "Display": "ACCOUNTS RECEIVABLE",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "ACCOUNTS RECEIVABLE"
+                    ]
+                },
+                {
+                    "Display": "Admin",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Admin"
+                    ]
+                },
+                {
+                    "Display": "Education/General Query",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Education/General Query"
+                    ]
+                },
+                {
+                    "Display": "Reporting",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Reporting"
+                    ]
+                },
+                {
+                    "Display": "Add",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Add"
+                    ]
+                },
+                {
+                    "Display": "Documentation Request",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Documentation Request"
+                    ]
+                },
+                {
+                    "Display": "Email Notification",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Email Notification"
+                    ]
+                },
+                {
+                    "Display": "HRSD",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "HRSD"
+                    ]
+                },
+                {
+                    "Display": "License Key / Serialization Request",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "License Key / Serialization Request"
+                    ]
+                },
+                {
+                    "Display": "Monitor",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Monitor"
+                    ]
+                },
+                {
+                    "Display": "Organization & User",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Organization & User"
+                    ]
+                },
+                {
+                    "Display": "SALES ORDER ENTRY",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "SALES ORDER ENTRY"
+                    ]
+                },
+                {
+                    "Display": "Sign Up",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Sign Up"
+                    ]
+                },
+                {
+                    "Display": "Technical",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Technical"
+                    ]
+                },
+                {
+                    "Display": "Test Module",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Test Module"
+                    ]
+                },
+                {
+                    "Display": "Upload Utility",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "Upload Utility"
+                    ]
+                },
+                {
+                    "Display": "User Permissions",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Module",
+                    "Terms": [
+                        "User Permissions"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "ServicePack",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 1,
+            "Buckets": [],
+            "Count": 216
+        },
+        {
+            "Field": "Audience",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "0",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 216,
+                    "Buckets": [],
+                    "Field": "Audience",
+                    "Terms": [
+                        "0"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "DeliveredIn",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [],
+            "Count": 216
+        },
+        {
+            "Field": "Status",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "Closed",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 121,
+                    "Buckets": [],
+                    "Field": "Status",
+                    "Terms": [
+                        "Closed"
+                    ]
+                },
+                {
+                    "Display": "Complete",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 15,
+                    "Buckets": [],
+                    "Field": "Status",
+                    "Terms": [
+                        "Complete"
+                    ]
+                },
+                {
+                    "Display": "Approved",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 5,
+                    "Buckets": [],
+                    "Field": "Status",
+                    "Terms": [
+                        "Approved"
+                    ]
+                },
+                {
+                    "Display": "Awaiting Customer",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Status",
+                    "Terms": [
+                        "Awaiting Customer"
+                    ]
+                },
+                {
+                    "Display": "New",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Status",
+                    "Terms": [
+                        "New"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "TypeName",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "Not Applicable",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 56,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Not Applicable"
+                    ]
+                },
+                {
+                    "Display": "Troubleshooting",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 26,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Troubleshooting"
+                    ]
+                },
+                {
+                    "Display": "Knowledge",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 13,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Knowledge"
+                    ]
+                },
+                {
+                    "Display": "Code Fix/Patch - Patch",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 10,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Code Fix/Patch - Patch"
+                    ]
+                },
+                {
+                    "Display": "Administrative",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 8,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Administrative"
+                    ]
+                },
+                {
+                    "Display": "Tax and Regulatory Update",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 8,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Tax and Regulatory Update"
+                    ]
+                },
+                {
+                    "Display": "Documentation",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 5,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Documentation"
+                    ]
+                },
+                {
+                    "Display": "Program Error",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 5,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Program Error"
+                    ]
+                },
+                {
+                    "Display": "Data Related",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 3,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Data Related"
+                    ]
+                },
+                {
+                    "Display": "Installation",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Installation"
+                    ]
+                },
+                {
+                    "Display": "Connectivity Issue",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Connectivity Issue"
+                    ]
+                },
+                {
+                    "Display": "Customer",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Customer"
+                    ]
+                },
+                {
+                    "Display": "Defect",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Defect"
+                    ]
+                },
+                {
+                    "Display": "Development Research",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Development Research"
+                    ]
+                },
+                {
+                    "Display": "Education",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Education"
+                    ]
+                },
+                {
+                    "Display": "Enhancement Request",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Enhancement Request"
+                    ]
+                },
+                {
+                    "Display": "Internal/Operations Monitor Issue",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Internal/Operations Monitor Issue"
+                    ]
+                },
+                {
+                    "Display": "Performance",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Performance"
+                    ]
+                },
+                {
+                    "Display": "Recorded Briefing (Video)",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Recorded Briefing (Video)"
+                    ]
+                },
+                {
+                    "Display": "Release and Net Change",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Release and Net Change"
+                    ]
+                },
+                {
+                    "Display": "Technical",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "Technical"
+                    ]
+                },
+                {
+                    "Display": "User",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "TypeName",
+                    "Terms": [
+                        "User"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "PatchClassification",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [],
+            "Count": 216
+        },
+        {
+            "Field": "Platform",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "Windows",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Platform",
+                    "Terms": [
+                        "Windows"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "PlatformOS",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [],
+            "Count": 216
+        },
+        {
+            "Field": "PlatformOSVersion",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [],
+            "Count": 216
+        },
+        {
+            "Field": "Severity",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "High impact",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 104,
+                    "Buckets": [],
+                    "Field": "Severity",
+                    "Terms": [
+                        "High impact"
+                    ]
+                },
+                {
+                    "Display": "Major impact",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 21,
+                    "Buckets": [],
+                    "Field": "Severity",
+                    "Terms": [
+                        "Major impact"
+                    ]
+                },
+                {
+                    "Display": "Standard",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 17,
+                    "Buckets": [],
+                    "Field": "Severity",
+                    "Terms": [
+                        "Standard"
+                    ]
+                },
+                {
+                    "Display": "Production Outage / Critical Application halted",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "Severity",
+                    "Terms": [
+                        "Production Outage / Critical Application halted"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "Language",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "English",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 73,
+                    "Buckets": [],
+                    "Field": "Language",
+                    "Terms": [
+                        "English"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "CompleteStatus",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [
+                {
+                    "Display": "Complete",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 113,
+                    "Buckets": [],
+                    "Field": "CompleteStatus",
+                    "Terms": [
+                        "Complete"
+                    ]
+                },
+                {
+                    "Display": "New KBA",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 6,
+                    "Buckets": [],
+                    "Field": "CompleteStatus",
+                    "Terms": [
+                        "New KBA"
+                    ]
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "LastUpdateDate",
+            "Type": 2,
+            "DisplayCount": false,
+            "Order": 0,
+            "MinCount": 1,
+            "Intervals": [
+                {
+                    "Span": "year",
+                    "Format": "yyyy"
+                }
+            ],
+            "Buckets": [
+                {
+                    "Display": "2001",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2001-01-01T00:00:00",
+                    "Upper": "2001-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2003",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2003-01-01T00:00:00",
+                    "Upper": "2003-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2007",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 6,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2007-01-01T00:00:00",
+                    "Upper": "2007-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2010",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2010-01-01T00:00:00",
+                    "Upper": "2010-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2012",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 11,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2012-01-01T00:00:00",
+                    "Upper": "2012-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2013",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 11,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2013-01-01T00:00:00",
+                    "Upper": "2013-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2014",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 21,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2014-01-01T00:00:00",
+                    "Upper": "2014-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2015",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 21,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2015-01-01T00:00:00",
+                    "Upper": "2015-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2016",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 19,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2016-01-01T00:00:00",
+                    "Upper": "2016-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2017",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 55,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2017-01-01T00:00:00",
+                    "Upper": "2017-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2018",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 30,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2018-01-01T00:00:00",
+                    "Upper": "2018-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2019",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 26,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2019-01-01T00:00:00",
+                    "Upper": "2019-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2020",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 13,
+                    "Buckets": [],
+                    "Field": "LastUpdateDate",
+                    "Lower": "2020-01-01T00:00:00",
+                    "Upper": "2020-12-31T23:59:59.999",
+                    "Span": "year"
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "CreateDate",
+            "Type": 2,
+            "DisplayCount": false,
+            "Order": 0,
+            "MinCount": 1,
+            "Intervals": [
+                {
+                    "Span": "year",
+                    "Format": "yyyy"
+                }
+            ],
+            "Buckets": [
+                {
+                    "Display": "1996",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "1996-01-01T00:00:00",
+                    "Upper": "1996-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "1997",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "1997-01-01T00:00:00",
+                    "Upper": "1997-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2001",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2001-01-01T00:00:00",
+                    "Upper": "2001-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2002",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2002-01-01T00:00:00",
+                    "Upper": "2002-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2004",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2004-01-01T00:00:00",
+                    "Upper": "2004-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2007",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 8,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2007-01-01T00:00:00",
+                    "Upper": "2007-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2010",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 2,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2010-01-01T00:00:00",
+                    "Upper": "2010-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2012",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 35,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2012-01-01T00:00:00",
+                    "Upper": "2012-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2013",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 9,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2013-01-01T00:00:00",
+                    "Upper": "2013-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2014",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 24,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2014-01-01T00:00:00",
+                    "Upper": "2014-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2015",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 12,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2015-01-01T00:00:00",
+                    "Upper": "2015-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2016",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 20,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2016-01-01T00:00:00",
+                    "Upper": "2016-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2017",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 56,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2017-01-01T00:00:00",
+                    "Upper": "2017-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2018",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 27,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2018-01-01T00:00:00",
+                    "Upper": "2018-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2019",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 13,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2019-01-01T00:00:00",
+                    "Upper": "2019-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2020",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 5,
+                    "Buckets": [],
+                    "Field": "CreateDate",
+                    "Lower": "2020-01-01T00:00:00",
+                    "Upper": "2020-12-31T23:59:59.999",
+                    "Span": "year"
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "CompleteDate",
+            "Type": 2,
+            "DisplayCount": false,
+            "Order": 0,
+            "MinCount": 1,
+            "Intervals": [
+                {
+                    "Span": "year",
+                    "Format": "yyyy"
+                }
+            ],
+            "Buckets": [
+                {
+                    "Display": "2013",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 10,
+                    "Buckets": [],
+                    "Field": "CompleteDate",
+                    "Lower": "2013-01-01T00:00:00",
+                    "Upper": "2013-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2014",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 19,
+                    "Buckets": [],
+                    "Field": "CompleteDate",
+                    "Lower": "2014-01-01T00:00:00",
+                    "Upper": "2014-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2015",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 14,
+                    "Buckets": [],
+                    "Field": "CompleteDate",
+                    "Lower": "2015-01-01T00:00:00",
+                    "Upper": "2015-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2016",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 18,
+                    "Buckets": [],
+                    "Field": "CompleteDate",
+                    "Lower": "2016-01-01T00:00:00",
+                    "Upper": "2016-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2017",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 22,
+                    "Buckets": [],
+                    "Field": "CompleteDate",
+                    "Lower": "2017-01-01T00:00:00",
+                    "Upper": "2017-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2018",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 24,
+                    "Buckets": [],
+                    "Field": "CompleteDate",
+                    "Lower": "2018-01-01T00:00:00",
+                    "Upper": "2018-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2019",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 13,
+                    "Buckets": [],
+                    "Field": "CompleteDate",
+                    "Lower": "2019-01-01T00:00:00",
+                    "Upper": "2019-12-31T23:59:59.999",
+                    "Span": "year"
+                },
+                {
+                    "Display": "2020",
+                    "Selected": false,
+                    "Level": 1,
+                    "Count": 1,
+                    "Buckets": [],
+                    "Field": "CompleteDate",
+                    "Lower": "2020-01-01T00:00:00",
+                    "Upper": "2020-12-31T23:59:59.999",
+                    "Span": "year"
+                }
+            ],
+            "Count": 216
+        },
+        {
+            "Field": "BeginDate",
+            "Type": 2,
+            "DisplayCount": false,
+            "Order": 0,
+            "MinCount": 1,
+            "Intervals": [
+                {
+                    "Span": "year",
+                    "Format": "yyyy"
+                }
+            ],
+            "Buckets": [],
+            "Count": 216
+        },
+        {
+            "Field": "Location",
+            "Type": 1,
+            "DisplayCount": false,
+            "Order": 0,
+            "Buckets": [],
+            "Count": 216
+        }
+    ],
+    "Searched": "document"
+}
     },
     {
       "id": "dummy",
